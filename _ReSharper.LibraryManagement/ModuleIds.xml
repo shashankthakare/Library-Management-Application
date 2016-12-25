@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="971A6781-910C-451D-A463-F112A24E986B" ModuleId="LibraryManagement.Model" />
+  <Module PersistentId="42B77CBA-00B2-4450-8F85-BE2DFB84070F" ModuleId="LibraryManagement.Contracts" />
+</Modules>

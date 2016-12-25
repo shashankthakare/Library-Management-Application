@@ -1,0 +1,4 @@
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Model\bin\Debug\LibraryManagement.Model.dll
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Model\bin\Debug\LibraryManagement.Model.pdb
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Model\obj\Debug\LibraryManagement.Model.dll
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Model\obj\Debug\LibraryManagement.Model.pdb

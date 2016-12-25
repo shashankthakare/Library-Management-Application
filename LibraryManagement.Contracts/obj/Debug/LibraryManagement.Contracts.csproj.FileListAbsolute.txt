@@ -1,0 +1,7 @@
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Contracts\bin\Debug\LibraryManagement.Contracts.dll
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Contracts\bin\Debug\LibraryManagement.Contracts.pdb
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Contracts\bin\Debug\LibraryManagement.Model.dll
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Contracts\bin\Debug\LibraryManagement.Model.pdb
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Contracts\obj\Debug\LibraryManagement.Contracts.csprojResolveAssemblyReference.cache
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Contracts\obj\Debug\LibraryManagement.Contracts.dll
+c:\users\rverma\documents\visual studio 2010\Projects\LibraryManagement\LibraryManagement.Contracts\obj\Debug\LibraryManagement.Contracts.pdb
